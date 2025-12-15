@@ -85,11 +85,11 @@ Available flags:
 ---
 
 ## 🎯 Use Cases
-
-- Dataset creation for ML / NLP projects
+<!-- - Dataset creation for ML / NLP projects
 - Content curation
+- Automation pipelines -->
+
 - Playlist backups
-- Automation pipelines
 - Export titles for books, URLs for download managers
 
 ---
