@@ -100,16 +100,6 @@ Aspiring Python / Data / AI Engineer
 
 GitHub: https://github.com/dpm24800
 
-<!-- ---
-
-## ⭐ Future Improvements
-
-- ZIP export
-- JSON support
-- Resume failed exports
-- Package as pip module
-- Channel playlist auto-detection -->
-
 ---
 
 If you find this project helpful, don’t forget to ⭐ the repo!
