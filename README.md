@@ -1,5 +1,5 @@
 # 🎬 YouTube Playlist Exporter
-A **CLI-based Python tool** that extracts information from a YouTube playlist and exports in multiple formats for different use cases. Designed for **interns / junior developers** and real-world automation.
+A **CLI-based Python tool** that extracts information from a YouTube playlist and exports in multiple formats for different use cases.
 
 ---
 
